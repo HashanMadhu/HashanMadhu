@@ -207,5 +207,5 @@
 </details> 
 
 -----
-Credits: [1999AZZAR](https://github.com/1999AZZAR)
+Credits: [1999AZZAR]([https://github.com/1999AZZAR](https://github.com/HashanMadhu/HashanMadhu/edit/main/README.md)https://github.com/HashanMadhu/HashanMadhu/edit/main/README.md)
 Last Edited on: 23/09/2022
