@@ -9,7 +9,7 @@
        alt="snake" /></a>
 </div>
 
-/*-----
+
 <details>
   <summary>☎️ contact me</summary>
 <div>
